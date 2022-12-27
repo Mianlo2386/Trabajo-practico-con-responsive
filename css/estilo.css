@@ -140,7 +140,7 @@ header div a:hover {
     border-radius: 250px;
     border: 15px solid white;
 }
-@media(max-width:950px) {
+@media(max-width:800px) {
     .primera {
         flex-direction: column-reverse;
         align-items: center;
